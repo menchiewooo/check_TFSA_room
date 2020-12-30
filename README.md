@@ -2,7 +2,9 @@
 1. Make sure the Chrome Webdriver is installed, and put the location of it in config file   
 2. Place config in the same directory as the code, and fill in the account credentials  
 3. 'cd' into the directory where scripts are located and run script from the terminal  
-4.     python check_TFSA_room 
+    ```
+    python check_TFSA_room
+    ```
 
 ## Features
 1. When there's an authentication code required, the user will be asked to enter the code received from email or text message
